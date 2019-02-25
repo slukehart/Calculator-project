@@ -1,6 +1,6 @@
 # Calculator
 
-## DUE: 3 Mar 2018
+## DUE: 6 Mar 2018
 
 ## Instructions:
 
