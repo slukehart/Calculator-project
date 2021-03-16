@@ -13,11 +13,13 @@ Examples of (but not limited to) WOW factors:
 
 ### TODO:
 1. Open Android Studio and create an Android project named Calculator-\<yourLastName\>.
-2. Create a .gitignore file and put the neccessary file names that do not belong in GitHub.
-3. Create a README.md and put '\#README' in it.
-4. VCS -> Import into Version Control -> Share Project on GitHub. Use 'Initial Commit' as commit message.
-5. Verify files were uploaded to your GitHub account.
-6. Complete the project.
+2. Initialize as a Git project.
+3. Edit the .gitignore file and put the neccessary file names that do not belong in GitHub.
+4. Fork this project into your Github account and make it a remote repository to your Android project.
+5. Perform a git pull origin master from your Android project.
+6. Add your files to a commit set and push to the remote.
+7. Verify files were uploaded to your GitHub account.
+8. Complete the project.
  
  When you are complete with your project, commit and push files to GitHub. VCS -> Commit Changes
  
